@@ -12,7 +12,7 @@ Just follow the wiring on the PDF from this repo.
 
 Follow this video for the skr board:
 
-![https://www.youtube.com/watch?v=N41JY1Gukuk&t=1214s&ab_channel=Vector3D](https://www.youtube.com/watch?v=N41JY1Gukuk&t=1214s&ab_channel=Vector3D)
+https://www.youtube.com/watch?v=N41JY1Gukuk&t=1214s&ab_channel=Vector3D
 
 with some changes:
 
